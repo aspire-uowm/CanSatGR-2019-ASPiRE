@@ -1,0 +1,10 @@
+pip3 install pyserial
+pip3 install board
+pip3 install RPI.GPIO
+pip3 install adafruit-blinka
+pip3 install adafruit-pureio
+pip3 install spidev
+pip3 install Adafruit-GPIO
+pip3 install smbus
+pip3 install adafruit-circuitpython-bmp280
+pip3 install picamera

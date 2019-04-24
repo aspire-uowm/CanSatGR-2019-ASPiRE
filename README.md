@@ -1,0 +1,2 @@
+# CanSatGR-ASPiRE
+This is the repository containing the codebase for for ASPiRE's CanSat in Greece 2019 entry to the competition. Our entry was to create a cansat capable to taking NIR photos of vegetation and asess its health via spectral analysis.
